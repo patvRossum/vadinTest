@@ -17,6 +17,7 @@ import com.vaadin.flow.server.PWA;
  * A new instance of this class is created for every new user and every
  * browser tab/window.
  */
+//Hello
 @Route ("")
 @PWA(name = "Vaadin Application",
         shortName = "Vaadin App",
